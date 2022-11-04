@@ -1,2 +1,9 @@
-# wiki
- Personal Knowledge Base Repo
+# CS Wikipedia
+
+## CS Topics (keynotes)
+
+  -  Arch
+  -  Compiler
+  -  PL
+  -  Toolkit
+  -  VM
